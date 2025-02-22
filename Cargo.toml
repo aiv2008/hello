@@ -1,0 +1,6 @@
+[package]
+name = "hello"
+version = "0.1.0"
+authors = ["aiv2008 <aiv2005@sina.com>"]
+
+[dependencies]
